@@ -323,6 +323,7 @@ git push
 # When we pulled from `feature1` we saw "Fast-forward"
 # What does that mean? Let's try again.
 git checkout feature1
+#HELLLO WORLD
 
 # reset can also move HEAD (i.e. your branch) around
 # In this case, we move HEAD back one, to its parent
